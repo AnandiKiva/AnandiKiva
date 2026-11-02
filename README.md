@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anandi Kiva</h1>
 <h3 align="center">I am a Software Engineering student with a passion for building digital products that are technically sound, beautifully designed, and aligned with business goals. I thrive at the intersection of "How it works" (Engineering), "How it feels" (UI/UX), and "Why it matters" (Business Strategy).</h3>
 
-- 🔭 I’m currently working on **C2C E-com platform.**
+- 🔭 I’m currently working on **Medication Inventory System for public hospital pharmacies in South Africa**
 
-- 🌱 I’m currently learning **how Generative AI works and Machine Learning Modeling.**
+- 🌱 I’m currently learning **how to create an app with an offline-first architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnandiKiva](https://github.com/AnandiKiva)
 
