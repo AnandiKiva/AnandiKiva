@@ -19,7 +19,7 @@
 |---|---|---|
 | **CampusLink** | Peer-to-peer marketplace for South African university students, with student email verification for 29+ institutions, messaging, multi-photo listings, checkout delivery options and an admin dashboard. Hardened with prepared statements and XSS/CSRF fixes. | PHP, MySQL, JavaScript |
 | **[Dezemba Radar](https://dezembaradar.netlify.app/)** | Mobile-first web app for discovering December events and private house parties in Cape Town and Johannesburg. | Next.js, Tailwind CSS, Supabase, Netlify |
-| **Geopolitics** | Single-player Risk-style strategy game against NPCs, with a C# heuristic NPC strategy, LLM battle commentary, real-time updates and battle replays. | React, TypeScript, ASP.NET Core, SignalR, MongoDB Atlas |
+| **[Geopolitics](https://geopoliticsgame.vercel.app/)** | Single-player Risk-style strategy game against NPCs, with a C# heuristic NPC strategy, LLM battle commentary, real-time updates and battle replays. | React, TypeScript, ASP.NET Core, SignalR, MongoDB Atlas |
 | **MediFlow** | Android medication inventory app. I led UI/UX: dashboard redesign, clickable overview cards, alerts screen, confirm dialogs and success/error feedback across stock flows. | Java, Android Studio |
 | **[Billing Reconciliation Audit](https://github.com/AnandiKiva/billing-reconciliation-audit)** | Reconciling billing records to flag mismatches and audit exceptions. | Python, SQL |
 | **[Sales Data Analysis](https://github.com/AnandiKiva/sales-data-analysis)** | Cleaning and analysing sales data to surface trends and insights. | Python, SQL |
